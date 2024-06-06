@@ -1,0 +1,42 @@
+p {
+  color: indigo;
+  font-family: Constantia, "Lucida Bright", "DeyaVu Serif", Georgia, "Serif";
+  font-size: 16px;
+  line-height: 18px;
+  width: 600px;
+  background-color: LightPink;
+  padding: 20px;
+}
+.paragraf_2 {color:indigo; background-color: rgba(255, 255, 255, 0.5)}
+.novi_blok {
+	background-color: rgba(255, 255, 255, 0.9);
+	padding: 20px;
+	margin: 20px;
+	width: 50%;
+}
+h1, h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: DarkSlateBlue;
+}
+
+span {color: rgb(255, 0, 255);}
+.pozadina{
+	background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTM0LWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.jpg");
+}
+.drugapozadina {
+	background-color: LightPink;
+}
+a:link {
+	color: black;
+	background-color: antiquewhite;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+a:hover{
+	background-color: darkgray;
+}
+img {
+	height: 200px;
+	
+}
